@@ -4,30 +4,30 @@ melacak durasi belajar, serta memperkuat pemahaman melalui kuis dan tantangan be
 Aplikasi ini dirancang untuk membantu pengguna membangun kebiasaan belajar yang konsisten 
 dan mengubah catatan belajar menjadi proses refleksi yang lebih efektif.
 
-✨ Features
-📝 Learning Log
+ Features
+Learning Log
 - Create learning notes
 - Edit learning notes
 - Delete learning notes
 - Save learning history
 
-📖 Learning Reflection
+Learning Reflection
 -  Record what you learned today
 -  Save key takeaways
 -  Track learning duration
 -  Categorize learning topics
 
-📊 Learning History
+Learning History
 -  View all learning records
 -  Sort entries by date
 -  Review previous learning sessions
 
-🤖 AI Learning Assistant
+AI Learning Assistant
 -  Generate personalized learning challenges
 -  Generate quizzes based on learning notes
 -  Improve retention through active recall
 
-💾 Offline Storage
+Offline Storage
 -  Local data persistence using Hive
 -  Fast and lightweight storage solution
 
